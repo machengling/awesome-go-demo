@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "./Authentication and OAuth/casbin/read_from_file"
+		},
+		{
+			"path": "./Authentication and OAuth/casbin/read_from_mysql"
+		}
+	],
+	"settings": {}
+}
